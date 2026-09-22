@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hiyalodha/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hiyalodha/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hiyalodha/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/hiyalodha/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hiyalodha/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiyalodha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hiyalodha/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hiyalodha/LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/hiyalodha/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/hiyalodha/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hiyalodha/LeetCode/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/hiyalodha/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
