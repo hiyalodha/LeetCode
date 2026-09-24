@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hiyalodha/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hiyalodha/LeetCode/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/hiyalodha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,9 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/hiyalodha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/hiyalodha/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/hiyalodha/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/hiyalodha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
