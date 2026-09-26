@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hiyalodha/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hiyalodha/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hiyalodha/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/hiyalodha/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0881-boats-to-save-people](https://github.com/hiyalodha/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/hiyalodha/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/hiyalodha/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hiyalodha/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hiyalodha/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/hiyalodha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/hiyalodha/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/hiyalodha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hiyalodha/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hiyalodha/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
