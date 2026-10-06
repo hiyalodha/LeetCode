@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hiyalodha/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/hiyalodha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/hiyalodha/LeetCode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hiyalodha/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/hiyalodha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/hiyalodha/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/hiyalodha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/hiyalodha/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hiyalodha/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/hiyalodha/LeetCode/tree/master/0058-length-of-last-word) |
 | [0424-longest-repeating-character-replacement](https://github.com/hiyalodha/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
